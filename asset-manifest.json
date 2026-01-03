@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/oh-cakes/static/css/main.cee46d7f.css",
+    "main.js": "/oh-cakes/static/js/main.21086e34.js",
+    "index.html": "/oh-cakes/index.html",
+    "main.cee46d7f.css.map": "/oh-cakes/static/css/main.cee46d7f.css.map",
+    "main.21086e34.js.map": "/oh-cakes/static/js/main.21086e34.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cee46d7f.css",
+    "static/js/main.21086e34.js"
+  ]
+}
